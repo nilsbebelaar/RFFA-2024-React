@@ -1,0 +1,51 @@
+.timetable-clinic2-row {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic2-image {
+  color: var(--dl-color-primary-700);
+  padding: 4px;
+}
+.timetable-clinic2-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.timetable-clinic2-container1 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic2-link {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic2-title1 {
+  font-style: normal;
+  font-weight: 500;
+}
+.timetable-clinic2-container2 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic2-link1 {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic2-title2 {
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+
+
+
+

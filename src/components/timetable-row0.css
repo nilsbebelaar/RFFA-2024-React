@@ -1,0 +1,24 @@
+.timetable-row0-row {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-row0-image {
+  color: var(--dl-color-primary-700);
+  padding: 4px;
+}
+.timetable-row0-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.timetable-row0-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+
+

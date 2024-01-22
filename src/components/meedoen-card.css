@@ -1,0 +1,56 @@
+.meedoen-card-gallery-card {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.meedoen-card-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+}
+.meedoen-card-container {
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.meedoen-card-text {
+  color: var(--dl-color-primary-700);
+  align-self: flex-start;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.meedoen-card-text1 {
+  color: var(--dl-color-primary-700);
+  font-size: 18px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.meedoen-card-link {
+  color: var(--dl-color-gray-white);
+  display: flex;
+  padding: var(--dl-space-space-halfunit);
+  align-self: flex-start;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: row;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-700);
+}
+.meedoen-card-image1 {
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+  margin-right: var(--dl-space-space-halfunit);
+}
+
+
+

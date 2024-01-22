@@ -1,0 +1,107 @@
+.timetable-clinic5-row {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-image {
+  color: var(--dl-color-primary-700);
+  padding: 4px;
+}
+.timetable-clinic5-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.timetable-clinic5-container1 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-link {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic5-title1 {
+  font-style: normal;
+  font-weight: 500;
+}
+.timetable-clinic5-container2 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-link1 {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic5-title2 {
+  font-style: normal;
+  font-weight: 500;
+}
+.timetable-clinic5-container3 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-link2 {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic5-title3 {
+  font-style: normal;
+  font-weight: 500;
+}
+.timetable-clinic5-container4 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-link3 {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic5-title4 {
+  font-style: normal;
+  font-weight: 500;
+}
+.timetable-clinic5-container5 {
+  display: flex;
+  flex-wrap: no-wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.timetable-clinic5-link4 {
+  align-self: center;
+  text-decoration: none;
+}
+.timetable-clinic5-title5 {
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+
+
+@media(max-width: 767px) {
+  .timetable-clinic5-container4 {
+    flex-direction: row;
+  }
+  .timetable-clinic5-container5 {
+    flex-direction: row;
+  }
+}
+@media(max-width: 479px) {
+  .timetable-clinic5-container4 {
+    flex-direction: row;
+  }
+  .timetable-clinic5-container5 {
+    flex-direction: row;
+  }
+}
