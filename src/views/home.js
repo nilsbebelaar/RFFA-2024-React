@@ -1174,7 +1174,7 @@ document.addEventListener("DOMContentLoaded", function() {
                   >
                     <path d="M854 342v-86l-342 214-342-214v86l342 212zM854 170q34 0 59 26t25 60v512q0 34-25 60t-59 26h-684q-34 0-59-26t-25-60v-512q0-34 25-60t59-26h684z"></path>
                   </svg>
-                  <span className="home-text77">organisation@rffa.nl</span>
+                  <span className="home-text77">hello@rffa.nl</span>
                 </div>
               </a>
               <a
