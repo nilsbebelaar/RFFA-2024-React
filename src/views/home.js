@@ -339,145 +339,126 @@ const Home = (props) => {
         </div>
       </section>
       <div id="festival" className="home-festival bg-blue section">
-        <div className="section-container">
+        <div className="home-container10 section-container">
           <section className="home-note">
             <h1 className="home-text10 section-title">
-              <span>RFFA Staat weer in de startblokken</span>
+              <span>RFFA Staat weer in de startblokken!</span>
               <br></br>
             </h1>
-            <img alt="image" src="/foto2-600w.jpg" className="home-image1" />
             <p className="home-text13">
-              <span className="home-text14">
-                Atletiek, de moeder aller sporten, is in Rotterdam sterk
-                vertegenwoordigd en dus een jaarlijks festival meer dan waard.
-                Daarom willen de Rotterdamse atletiekverenigingen PAC en
-                Rotterdam Atletiek (RA) in het Olympisch Jaar 2024 opnieuw het
-                Rotterdam Festival for Athletics organiseren. De voorbereidingen
-                voor deze unieke ontmoeting tussen top- en breedtesport zijn van
-                start gegaan.
+              <span>
+                In het Olympisch jaar 2024 willen PAC en Rotterdam Atletiek (RA)
+                de atletieksport in Rotterdam weer sterk op de kaart zetten. Met
+                een unieke ontmoeting tussen top- en breedtesport: het Rotterdam
+                Festival for Athletics. Als datum mikken we op eind
+                augustus/begin september 2024. Om na de Olympische Spelen de
+                afterparty van het atletiekseizoen te zijn. Met als ambitie het
+                RFFA te laten uitgroeien tot een internationale wedstrijd.
               </span>
               <br></br>
-              <br></br>
+            </p>
+            <img alt="image" src="/foto2-600w.jpg" className="image" />
+            <h1 className="text-heading">Iedereen in beweging!</h1>
+            <p>
               <span>
-                Het is alweer de derde editie van het Rotterdam Festival for
-                Athletics (RFFA), dat we in 2021 samen met de gemeente voor het
-                eerst organiseerden. Onze ambitie? De atletieksport in
-                Nederland, en dan vooral in Rotterdam, sterk op de kaart zetten.
-                Want Rotterdam is een stad van sport en mobiliteit – iedereen
-                moet in beweging komen en blijven. De atletiekverenigingen PAC
-                en RA brengen wekelijks duizenden Rotterdammers in beweging.
-                Atletiek is dan ook een sport voor iedereen en de basis voor
-                vele andere sporten. Het aanbod is divers; je kunt rennen,
-                springen en werpen, maar ook gezellig met anderen een stevige
-                wandeling maken. Plezier en gezonde beweging voor alle
-                Rotterdammers, ongeacht hun leeftijd of fysieke mogelijkheden,
-                PAC en RA maken het mede mogelijk.
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
+                Rotterdam is een stad van sport en mobiliteit. PAC en RA brengen
+                wekelijks duizenden Rotterdammers in beweging. Atletiek is een
+                diverse sport voor jong en oud. Je kunt rennen, springen, werpen
+                of gezellig samen met anderen een stevige wandeling maken.
               </span>
               <br></br>
-              <br></br>
-              <span className="Heading-Text">Rotterdams toptalent</span>
-              <br></br>
+            </p>
+            <h1 className="text-heading">Rotterdams toptalent</h1>
+            <p>
               <span>
-                De Rotterdamse atletiekverenigingen zijn sociaal en ambitieus.
-                Nabij het Kralingse Bos ligt sinds vorig jaar een 8-baans
-                atletiekbaan van internationale allure. Mede door de tomeloze
-                inzet van veel trainers, onder wie voormalig olympisch atleten,
-                zijn PAC en RA een kweekvijver voor toptalent. Ramsey Angela,
-                Liemarvin Bonevacia, Churandy Martina en tal van andere
+                PAC en RA zijn ook een kweekvijver voor toptalent. Ramsey
+                Angela, Liemarvin Bonevacia, Churandy Martina en tal van andere
                 topatleten hebben hun eerste atletiekstapjes in Rotterdam gezet.
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
               </span>
-              <br></br>
-              <br></br>
-              <span className="Heading-Text">Internationale sportstad…</span>
-              <br></br>
-              <span>
-                De ambitie is het RFFA te laten uitgroeien tot een
-                internationale wedstrijd waar Nederlandse topatleten zich kunnen
-                meten met hun buitenlandse ‘collega’s’ op hoog niveau. Als datum
-                voor de editie van 2024 mikken we op eind augustus/begin
-                september. De exacte datum maken we zo snel mogelijk bekend. We
-                gaan hierover nog in overleg met de Atletiekunie omdat het
-                belangrijk is dat de datum past in de agenda van de Nederlandse
-                topatleten. Na de Olympische Spelen willen we de afterparty van
-                het atletiekseizoen zijn!
-              </span>
-              <br></br>
               <br></br>
             </p>
-            <img alt="image" src="/foto1-600w.jpg" className="home-image2" />
-            <p className="home-text30">
-              <span className="Heading-Text">… voor iedereen!</span>
-              <br></br>
+            <img alt="image" src="/foto1-600w.jpg" className="image" />
+            <h1 className="text-heading">Rotterdam Festival for Athletics</h1>
+            <p>
               <span>
-                Van deze party zal niet alleen de Nederlandse atletiektop
-                genieten. Net als de vorige jaren gaan we een boeiend programma
-                bieden voor iedereen die houdt van of nieuwsgierig is naar de
-                atletieksport. Beginnende atleten kunnen ook ditmaal deelnemen
-                aan een wedstrijd en/of een clinic met een toptrainer of
-                topatleet. Hun ouders, overige familieleden en vrienden zijn van
-                harte uitgenodigd om dit spektakel van dichtbij mee te maken.
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
+                We bieden een boeiend programma voor iedereen die houdt van of
+                nieuwsgierig is naar de atletieksport. Beginnende atleten kunnen
+                deelnemen aan een wedstrijd en/of een clinic met een toptrainer
+                of topatleet. Iedereen is van harte uitgenodigd om dit spektakel
+                van dichtbij mee te maken.
               </span>
-              <br></br>
-              <br></br>
-              <span className="Heading-Text">Help je mee?</span>
-              <br></br>
-              <span>
-                Er ligt kortom een prachtige atletiekdag in het verschiet, maar
-                als Rotterdamse atletiekverenigingen kunnen we deze niet alleen
-                organiseren. We zijn aangewezen op ondersteuning van externe
-                partijen. Misschien wil je bij de voorbereiding en/of op de dag
-                zelf een handje komen helpen? We zijn blij met iedereen die het
-                organisatieteam komt versterken.
-              </span>
-              <br></br>
-              <br></br>
-              <span className="Heading-Text">Financiële ondersteuning</span>
-              <br></br>
-              <span>
-                Ben je werkzaam voor of eigenaar van een bedrijf dat zijn naam
-                graag met de atletieksport wil verbinden? Alle financiële steun
-                is welkom. We bieden voor al onze sponsoren een VIP-pakket,
-                inclusief training van medewerkers door topatleten aan. Ben je
-                meer van de materiële ondersteuning of heb je een ander idee hoe
-                je ons kunt helpen het Rotterdam Festival for Athletics te
-                organiseren? Neem dan contact op met
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
-              <a href="mailto:hello@rffa.nl?subject=" className="home-link12">
-                hello@rffa.nl
-              </a>
-              <br></br>
               <br></br>
             </p>
+            <h1 className="text-heading">Hoe kun jij ons helpen?</h1>
+            <div className="row">
+              <svg viewBox="0 0 1097.142857142857 1024" className="icon-help">
+                <path d="M438.857 658.286h219.429v-54.857h-73.143v-256h-65.143l-84.571 78.286 44 45.714c13.714-12 22.286-18.286 31.429-32.571h1.143v164.571h-73.143v54.857zM731.429 512c0 104-62.857 237.714-182.857 237.714s-182.857-133.714-182.857-237.714 62.857-237.714 182.857-237.714 182.857 133.714 182.857 237.714zM1024 658.286v-292.571c-80.571 0-146.286-65.714-146.286-146.286h-658.286c0 80.571-65.714 146.286-146.286 146.286v292.571c80.571 0 146.286 65.714 146.286 146.286h658.286c0-80.571 65.714-146.286 146.286-146.286zM1097.143 182.857v658.286c0 20-16.571 36.571-36.571 36.571h-1024c-20 0-36.571-16.571-36.571-36.571v-658.286c0-20 16.571-36.571 36.571-36.571h1024c20 0 36.571 16.571 36.571 36.571z"></path>
+              </svg>
+              <div className="column-half home-container12">
+                <h1 className="text-heading-2">Als sponsor</h1>
+                <p>
+                  <span>
+                    Wil je ons ondersteunen met een financiële bijdrage? Wij
+                    geven jouw bedrijf zichtbaarheid op en rond de atletiekbaan.
+                    We bieden een VIP-pakket aan, inclusief een training voor je
+                    medewerkers door topatleten.
+                  </span>
+                  <br></br>
+                  <span>
+                    Mail naar
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: ' ',
+                      }}
+                    />
+                  </span>
+                  <a
+                    href="mailto:hello@rffa.nl?subject=Samenwerking RFFA"
+                    className="home-link12"
+                  >
+                    hello@rffa.nl
+                  </a>
+                  <br></br>
+                </p>
+              </div>
+              <svg viewBox="0 0 1152 1024" className="icon-help">
+                <path d="M768 770.612v-52.78c70.498-39.728 128-138.772 128-237.832 0-159.058 0-288-192-288s-192 128.942-192 288c0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h896c0-128.968-166.898-235.64-384-253.388z"></path>
+                <path d="M327.196 795.328c55.31-36.15 124.080-63.636 199.788-80.414-15.054-17.784-28.708-37.622-40.492-59.020-30.414-55.234-46.492-116.058-46.492-175.894 0-86.042 0-167.31 30.6-233.762 29.706-64.504 83.128-104.496 159.222-119.488-16.914-76.48-61.94-126.75-181.822-126.75-192 0-192 128.942-192 288 0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h279.006c14.518-12.91 30.596-25.172 48.19-36.672z"></path>
+              </svg>
+              <div className="column-half">
+                <h1 className="text-heading-2">Als vrijwilliger</h1>
+                <p>
+                  <span>
+                    Het organisatieteam is blij met iedereen die komt helpen
+                    tijdens de voorbereiding, op de dag zelf en met het op- en
+                    afbouwen van het evenemententerrein.
+                  </span>
+                  <br></br>
+                  <span>
+                    Mail naar
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: ' ',
+                      }}
+                    />
+                  </span>
+                  <a href="mailto:hello@rffa.nl?subject=Helpen RFFA">
+                    hello@rffa.nl
+                  </a>
+                  <br></br>
+                </p>
+              </div>
+            </div>
           </section>
         </div>
       </div>
       <div id="festival" className="home-festival1 bg-blue section">
         <div className="section-container">
           <section>
-            <h1 className="home-text46 section-title">
-              <span className="home-text47">9 september 2023</span>
+            <h1 className="home-text41 section-title">
+              <span className="home-text42">9 september 2023</span>
               <br></br>
-              <span className="home-text49">13:00 - 17:30</span>
+              <span className="home-text44">13:00 - 17:30</span>
               <br></br>
               <span>Sportcomplex Nenijto</span>
               <br></br>
@@ -522,7 +503,7 @@ const Home = (props) => {
       </div>
       <div id="meedoen" className="home-meedoen bg-green section">
         <div className="section-container">
-          <h1 className="home-text60 section-title">ZELF MEEDOEN</h1>
+          <h1 className="home-text55 section-title">ZELF MEEDOEN</h1>
           <div className="home-gallery">
             <MeedoenCard
               title="Strijd mee"
@@ -552,7 +533,7 @@ const Home = (props) => {
         <div className="section-container">
           <h2 className="section-title">TIJDSCHEMA (ONDER VOORBEHOUD)</h2>
           <div>
-            <div className="home-container15">
+            <div className="home-container18">
               <Script
                 html={`<style>
   .timetable-menu-button.active {
@@ -597,9 +578,9 @@ const Home = (props) => {
               ></Script>
             </div>
           </div>
-          <div className="home-container16">
+          <div className="home-container19">
             <div className="home-timetable-menu">
-              <div className="home-container17">
+              <div className="home-container20">
                 <div className="home-knop-1 timetable-menu-button active">
                   <h1 className="timetable-menu-title">Hoofdprogramma</h1>
                   <span className="timetable-menu-subtitle">
@@ -613,7 +594,7 @@ const Home = (props) => {
                   </span>
                 </div>
               </div>
-              <div className="home-container18">
+              <div className="home-container21">
                 <div className="home-knop-3 timetable-menu-button">
                   <h1 className="timetable-menu-title">RFFA Clinics</h1>
                   <span className="timetable-menu-subtitle">
@@ -876,7 +857,7 @@ const Home = (props) => {
       </div>
       <div id="meet-greet" className="home-meet-greet bg-green section">
         <div className="section-container">
-          <h1 className="home-text70 section-title">Meet &amp; Greet</h1>
+          <h1 className="home-text65 section-title">Meet &amp; Greet</h1>
           <div className="home-gallery1">
             <MeetGreetCard
               title="Liemarvin Bonevacia"
@@ -1019,7 +1000,7 @@ const Home = (props) => {
             loading="lazy"
             className="home-image3"
           />
-          <div className="home-container21">
+          <div className="home-container24">
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLSdnJjYTOCFjt-RaE2ZVklgpf5a1C7eCsnynX_MOnzpN-ib48A/viewform?embedded=true"
               frameborder="0"
@@ -1055,7 +1036,7 @@ const Home = (props) => {
                     href="https://www.instagram.com/rffa_rotterdam/"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="home-link13"
+                    className="home-link14"
                   >
                     Instagram
                   </a>
@@ -1071,7 +1052,7 @@ const Home = (props) => {
                     href="https://www.facebook.com/rffarotterdam/"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="home-link14"
+                    className="home-link15"
                   >
                     Facebook
                     <span
@@ -1100,7 +1081,7 @@ const Home = (props) => {
                     href="https://www.instagram.com/rffa_rotterdam/"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="home-link15"
+                    className="home-link16"
                   >
                     Instagram
                     <span
@@ -1127,7 +1108,7 @@ const Home = (props) => {
       </section>
       <div className="home-footer">
         <div>
-          <div className="home-container24">
+          <div className="home-container27">
             <Script
               html={`<script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -1149,13 +1130,13 @@ document.addEventListener("DOMContentLoaded", function() {
           </div>
         </div>
         <footer className="home-footer1">
-          <div className="home-container25">
+          <div className="home-container28">
             <img
               alt="image"
               src="/rffa_logo_website.svg"
               className="home-image4"
             />
-            <span className="home-text76">
+            <span className="home-text71">
               Het Rotterdam Festival for Athletics is een initiatief voor een
               jaarlijks atletiekfeest van PAC Rotterdam en Rotterdam Atletiek.
             </span>
@@ -1164,58 +1145,58 @@ document.addEventListener("DOMContentLoaded", function() {
             <span className="home-header8">Contact</span>
             <div className="home-list">
               <a
-                href="mailto:organisation@rffa.nl?subject=Vraag RFFA 2023"
-                className="home-link16"
+                href="mailto:hello@rffa.nl?subject=Contact RFFA"
+                className="home-link17"
               >
-                <div className="home-container26">
+                <div className="home-container29">
                   <svg
                     viewBox="0 0 1024 1024"
-                    className="home-icon17 footer-icon"
+                    className="home-icon22 footer-icon"
                   >
                     <path d="M854 342v-86l-342 214-342-214v86l342 212zM854 170q34 0 59 26t25 60v512q0 34-25 60t-59 26h-684q-34 0-59-26t-25-60v-512q0-34 25-60t59-26h684z"></path>
                   </svg>
-                  <span className="home-text77">hello@rffa.nl</span>
+                  <span className="home-text72">hello@rffa.nl</span>
                 </div>
               </a>
               <a
                 href="https://www.instagram.com/rffa_rotterdam/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link17"
+                className="home-link18"
               >
-                <div className="home-container27">
+                <div className="home-container30">
                   <svg
                     viewBox="0 0 877.7142857142857 1024"
-                    className="home-icon19 footer-icon"
+                    className="home-icon24 footer-icon"
                   >
                     <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                   </svg>
-                  <span className="home-text78">Instagram</span>
+                  <span className="home-text73">Instagram</span>
                 </div>
               </a>
               <a
                 href="https://www.facebook.com/rffarotterdam/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link18"
+                className="home-link19"
               >
-                <div className="home-container28">
+                <div className="home-container31">
                   <svg
                     viewBox="0 0 877.7142857142857 1024"
-                    className="home-icon21 footer-icon"
+                    className="home-icon26 footer-icon"
                   >
                     <path d="M713.143 73.143c90.857 0 164.571 73.714 164.571 164.571v548.571c0 90.857-73.714 164.571-164.571 164.571h-107.429v-340h113.714l17.143-132.571h-130.857v-84.571c0-38.286 10.286-64 65.714-64l69.714-0.571v-118.286c-12-1.714-53.714-5.143-101.714-5.143-101.143 0-170.857 61.714-170.857 174.857v97.714h-114.286v132.571h114.286v340h-304c-90.857 0-164.571-73.714-164.571-164.571v-548.571c0-90.857 73.714-164.571 164.571-164.571h548.571z"></path>
                   </svg>
-                  <span className="home-text79">Facebook</span>
+                  <span className="home-text74">Facebook</span>
                 </div>
               </a>
             </div>
           </div>
-          <a href="#top" data-role="scroll-top" className="home-link19 button">
+          <a href="#top" data-role="scroll-top" className="home-link20 button">
             <img alt="image" src="/arrow.svg" className="home-image5" />
           </a>
         </footer>
-        <span className="home-text80">
+        <span className="home-text75">
           © 2023 Rotterdam Festival for Athletics - All rights reserved
         </span>
       </div>
