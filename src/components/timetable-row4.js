@@ -24,7 +24,7 @@ const TimetableRow4 = (props) => {
               rel="noreferrer noopener"
               className="timetable-row4-link timetable-button"
             >
-              <span className="">{props.linkText1}</span>
+              <span>{props.linkText1}</span>
             </a>
             <a
               href={props.linkUrl2}
@@ -32,7 +32,7 @@ const TimetableRow4 = (props) => {
               rel="noreferrer noopener"
               className="timetable-row4-link1 timetable-button"
             >
-              <span className="">{props.linkText2}</span>
+              <span>{props.linkText2}</span>
             </a>
             <a
               href={props.linkUrl3}
@@ -40,7 +40,7 @@ const TimetableRow4 = (props) => {
               rel="noreferrer noopener"
               className="timetable-row4-link2 timetable-button"
             >
-              <span className="">{props.linkText3}</span>
+              <span>{props.linkText3}</span>
             </a>
             <a
               href={props.linkUrl4}
@@ -48,7 +48,7 @@ const TimetableRow4 = (props) => {
               rel="noreferrer noopener"
               className="timetable-row4-link3 timetable-button"
             >
-              <span className="">{props.linkText4}</span>
+              <span>{props.linkText4}</span>
             </a>
           </div>
         </div>

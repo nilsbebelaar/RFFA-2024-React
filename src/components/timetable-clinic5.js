@@ -25,7 +25,7 @@ const TimetableClinic5 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic5-link timetable-button"
           >
-            <span className="">{props.name1}</span>
+            <span>{props.name1}</span>
           </a>
           <h4 className="timetable-clinic5-title1 timetable-title">
             {props.by1}
@@ -38,7 +38,7 @@ const TimetableClinic5 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic5-link1 timetable-button"
           >
-            <span className="">{props.name2}</span>
+            <span>{props.name2}</span>
           </a>
           <h4 className="timetable-clinic5-title2 timetable-title">
             {props.by2}
@@ -51,7 +51,7 @@ const TimetableClinic5 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic5-link2 timetable-button"
           >
-            <span className="">{props.name3}</span>
+            <span>{props.name3}</span>
           </a>
           <h4 className="timetable-clinic5-title3 timetable-title">
             {props.by3}
@@ -64,7 +64,7 @@ const TimetableClinic5 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic5-link3 timetable-button"
           >
-            <span className="">{props.name4}</span>
+            <span>{props.name4}</span>
           </a>
           <h4 className="timetable-clinic5-title4 timetable-title">
             {props.by4}
@@ -77,7 +77,7 @@ const TimetableClinic5 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic5-link4 timetable-button"
           >
-            <span className="">{props.name5}</span>
+            <span>{props.name5}</span>
           </a>
           <h4 className="timetable-clinic5-title5 timetable-title">
             {props.by5}

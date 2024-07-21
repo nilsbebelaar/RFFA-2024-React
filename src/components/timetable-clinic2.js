@@ -25,7 +25,7 @@ const TimetableClinic2 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic2-link timetable-button"
           >
-            <span className="">{props.name1}</span>
+            <span>{props.name1}</span>
           </a>
           <h4 className="timetable-clinic2-title1 timetable-title">
             {props.by1}
@@ -38,7 +38,7 @@ const TimetableClinic2 = (props) => {
             rel="noreferrer noopener"
             className="timetable-clinic2-link1 timetable-button"
           >
-            <span className="">{props.name2}</span>
+            <span>{props.name2}</span>
           </a>
           <h4 className="timetable-clinic2-title2 timetable-title">
             {props.by2}

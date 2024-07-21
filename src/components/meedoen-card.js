@@ -28,7 +28,7 @@ const MeedoenCard = (props) => {
             loading="lazy"
             className="meedoen-card-image1"
           />
-          <span className="">Inschrijven</span>
+          <span>Inschrijven</span>
         </a>
       </div>
     </div>

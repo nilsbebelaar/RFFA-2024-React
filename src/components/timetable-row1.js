@@ -23,7 +23,7 @@ const TimetableRow1 = (props) => {
             rel="noreferrer noopener"
             className="timetable-row1-link timetable-button"
           >
-            <span className="">{props.linkText}</span>
+            <span>{props.linkText}</span>
           </a>
         </div>
       </div>
